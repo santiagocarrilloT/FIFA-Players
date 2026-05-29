@@ -1,3 +1,5 @@
-player_23.csv
+players_23.csv
+.venv/
+.ipynb_checkpoints/
 *.zip
 *.parquet
